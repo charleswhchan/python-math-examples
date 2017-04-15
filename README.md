@@ -5,4 +5,4 @@ Code snippets for:
 - matplotlib
 
 Recommendation:
-- Use [Anaconda|https://www.continuum.io/anaconda-overview]
+- [Anaconda Python Distribution](https://www.continuum.io/anaconda-overview)
